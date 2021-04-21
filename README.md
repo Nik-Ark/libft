@@ -7,5 +7,7 @@ This library includes a bunch of useful functions for working with chars, arrays
 
 ## Installation
 ```sh
+cd libft
 make
+make bonus
 ```
